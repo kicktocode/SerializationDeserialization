@@ -7,7 +7,7 @@ import java.io.ObjectInputStream;
 
 
 
-public class Deserialization {
+public class DeserializationPerson {
     public static void main(String[] args) throws IOException {
         Person person1=null;
 
